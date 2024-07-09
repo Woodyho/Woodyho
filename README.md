@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ocig96@gmail.com
-- 😄 Pronouns: None
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm gud at python
 
 <!---
